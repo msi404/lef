@@ -1,6 +1,14 @@
 [package]
-name = "rover"
-version = "0.1.0"
+name = "lf"
+version = "0.0.0"
+authors = ["Ismail ismail.merced3@gmail.com"]
+license = "Apache-2.0"
+description = "A tool to list file content"
+readme = "README.md"
+homepage = "https://github.com/msi404/lf"
+repository = "https://github.com/msi404/lf"
+keywords = ["cli", "search", "demo"]
+categories = ["command-line-utilities"]
 edition = "2024"
 
 [dependencies]
