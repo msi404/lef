@@ -1,6 +1,6 @@
 [package]
 name = "lef"
-version = "0.0.0"
+version = "0.1.0"
 authors = ["Ismail ismail.merced3@gmail.com"]
 license = "Apache-2.0"
 description = "A tool to list file content"
